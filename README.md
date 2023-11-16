@@ -10,5 +10,9 @@
 #### The systolic matrix multiplier employs a specialized systolic array architecture, which is a grid of processing elements designed for efficient matrix multiplication.
 #### This parallelized structure allows for simultaneous processing of multiple elements in the matrices, optimizing throughput and enhancing computational speed.
 
+### Here is the Architecture of the NPU
+
+![00](https://github.com/yassinelkashef/Systolic-Matrix-Multiplier-3x3/assets/110354392/284d44cc-7b4c-4011-b2e2-69f6dbea1798)
+
 
 
